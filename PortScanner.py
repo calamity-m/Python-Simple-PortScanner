@@ -29,7 +29,7 @@ def check_port(address, port):
         print "%s: %s" %(address, err_msg)
     
 def check_ports(address):
-    # Ports we are checking
+    # An array of the ports we are checking
     ports = [21, 22, 23, 25, 80, 110, 119, 443]
     
     # Check the ports
