@@ -1,4 +1,4 @@
-# Port Checker/Scanner that checks a number of different ports
+# Port Checker/Scanner that checks a number of different TCP ports
 
 import socket
 
